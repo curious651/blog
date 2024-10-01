@@ -1,0 +1,25 @@
+[[main]]
+none = "none"
+
+[[main]]
+  name = "reading"
+  pageRef = "reading"
+  weight = 10
+
+[[main]]
+  name = "writing"
+  pageRef = "writing"
+  weight = 20
+
+[[main]]
+  name = "about"
+  pageRef = "about"
+  weight = 30
+
+[[main]]
+  name = "tags"
+  pageRef = "tags"
+  weight = 40
+
+[[footer]]
+none = "none"
