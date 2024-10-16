@@ -8,9 +8,9 @@ tags: ["ui", "writing"]
 
 What do I want out of reading and writing on the web?
 
-# Lately I came across Robin Rendle's blog
+## Lately I came across Robin Rendle's blog
 
-What a lovely experience. What a beauty. I love the white space - not entirely white, but some muted autumnal brown in which a white column of beautiful type is nestled. The font isn’t too small. It is left aligned, and by golly what is with every website builder and website theme’s extreme allergy to any text that’s not centred? It doesn’t all need to look like a substack, or be the digital equivalent of writing like a child - give them a blank page and they’ll start smack in the middle. No. Stop.
+What a lovely experience. What a beauty. I love the white space - not entirely white, but some muted autumnal brown in which a white column of beautiful type is nestled. The font isn’t too small. It is left aligned (and by golly what is with every website builder and website theme’s extreme allergy to any text that’s not centred? It doesn’t all need to look like a substack).
 
 I went down a bit of a rabbit hole and came across the website, People and Blogs. Now I need to see what everyone else who has crafted a website and made of it.
 
