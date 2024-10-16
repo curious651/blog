@@ -14,13 +14,13 @@ What a lovely experience. What a beauty. I love the white space - not entirely w
 
 I went down a bit of a rabbit hole and came across the website, People and Blogs. Now I need to see what everyone else who has crafted a website and made of it.
 
-## It's 2024, and I'm still pulling ideas out of rows and rows of words.
+## It's 2024, and I'm still reading rows and rows of words.
 
 I want to make something beautiful. I want to see information, mostly text, be rendered beautifully. I want websites, books, any reading material, really, to be informative and beautiful in distinctive ways, the way receipts have a format and aesthetic; so do calendars, and matchboxes. I want to see texts shaped into beautiful forms.
 
 Sometimes we cross the chasm, the spectrum, and fall into art, pictures. It’s silly to think words are more accurate or more precise than pictures. A picture gives a gestalt, a vibe. A word gives you a brushstroke; a book, a picture you ultimately are painting for yourself.
 
-But it’s not just beauty or aesthetics I’m aiming for. It’s 2024, and I’m still writing and communicating my ideas to you in rows and rows of text. You’re scanning; you can’t sit and read so long, there’s a million other things on your Readwise/Pocket/Twitter/Reddit/syllabus. If this was really interesting you’ll highlight it, import it into Readwise/Obsidian or whatever other trendy tools for thought and plug that into your knowledge graph or zettelkasten and feel like you’re now smarter, or have more new words in your vault.
+But it’s not just beauty or aesthetics I’m aiming for. It’s 2024, and I’m still writing and communicating my ideas to you in rows and rows of text. You’re scanning; you can’t sit and read so long, there’s a million other things on your Readwise/Pocket/Twitter/Reddit/syllabus. If this was really interesting you’ll highlight it, import it into Readwise/Obsidian or whatever other trendy tools for thought and plug that into your knowledge graph or zettelkasten and feel like you’re now smarter, or have more new words in your vault. Did you get what I wanted to say from what I wrote? The question is as wide open as if I've painted a picture.
 
 ## We shape our tools and our tools shape us.
 
