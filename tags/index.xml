@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on better contexts</title>
-    <link>https://curious651.github.io/blog/tags/</link>
+    <link>http://localhost:1313/blog/tags/</link>
     <description>Recent content in Tags on better contexts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 chris</copyright>
-    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://curious651.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ui</title>
-      <link>https://curious651.github.io/blog/tags/ui/</link>
+      <link>http://localhost:1313/blog/tags/ui/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/tags/ui/</guid>
+      <guid>http://localhost:1313/blog/tags/ui/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Writing</title>
-      <link>https://curious651.github.io/blog/tags/writing/</link>
+      <link>http://localhost:1313/blog/tags/writing/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/tags/writing/</guid>
+      <guid>http://localhost:1313/blog/tags/writing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Example</title>
-      <link>https://curious651.github.io/blog/tags/example/</link>
+      <link>http://localhost:1313/blog/tags/example/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/tags/example/</guid>
+      <guid>http://localhost:1313/blog/tags/example/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tag</title>
-      <link>https://curious651.github.io/blog/tags/tag/</link>
+      <link>http://localhost:1313/blog/tags/tag/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/tags/tag/</guid>
+      <guid>http://localhost:1313/blog/tags/tag/</guid>
       <description></description>
       
     </item>
