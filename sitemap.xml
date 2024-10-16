@@ -3,49 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/blog/reading/</loc>
+    <loc>https://curious651.github.io/blog/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://curious651.github.io/blog/writing/1729074298140-what-i-want-of-the-web/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://curious651.github.io/blog/writing/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://curious651.github.io/blog/reading/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/reading/one-book/</loc>
+    <loc>https://curious651.github.io/blog/reading/one-book/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/writing/1727783031440-first-post/</loc>
+    <loc>https://curious651.github.io/blog/writing/1727783031440-first-post/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/reading/second-book/</loc>
+    <loc>https://curious651.github.io/blog/reading/second-book/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/writing/1727783047266-second-post/</loc>
+    <loc>https://curious651.github.io/blog/writing/1727783047266-second-post/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/blog/writing/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/blog/about/</loc>
+    <loc>https://curious651.github.io/blog/about/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
