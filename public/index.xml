@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Blowfish! on better contexts</title>
-    <link>https://curious651.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Welcome to Blowfish! on better contexts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 chris</copyright>
-    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://curious651.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What I want of the web</title>
-      <link>https://curious651.github.io/blog/writing/1729074298140-what-i-want-of-the-web/</link>
+      <link>http://localhost:1313/blog/writing/1729074298140-what-i-want-of-the-web/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/writing/1729074298140-what-i-want-of-the-web/</guid>
+      <guid>http://localhost:1313/blog/writing/1729074298140-what-i-want-of-the-web/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/blog/writing/1729074298140-what-i-want-of-the-web/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/writing/1729074298140-what-i-want-of-the-web/featured.png" />
     </item>
     
     <item>
       <title>first-book</title>
-      <link>https://curious651.github.io/blog/reading/one-book/</link>
+      <link>http://localhost:1313/blog/reading/one-book/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/reading/one-book/</guid>
+      <guid>http://localhost:1313/blog/reading/one-book/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/blog/reading/one-book/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/reading/one-book/featured.png" />
     </item>
     
     <item>
       <title>first-post</title>
-      <link>https://curious651.github.io/blog/writing/1727783031440-first-post/</link>
+      <link>http://localhost:1313/blog/writing/1727783031440-first-post/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/writing/1727783031440-first-post/</guid>
+      <guid>http://localhost:1313/blog/writing/1727783031440-first-post/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/blog/writing/1727783031440-first-post/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/writing/1727783031440-first-post/featured.png" />
     </item>
     
     <item>
       <title>second-book</title>
-      <link>https://curious651.github.io/blog/reading/second-book/</link>
+      <link>http://localhost:1313/blog/reading/second-book/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/reading/second-book/</guid>
+      <guid>http://localhost:1313/blog/reading/second-book/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/blog/reading/second-book/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/reading/second-book/featured.png" />
     </item>
     
     <item>
       <title>second-post</title>
-      <link>https://curious651.github.io/blog/writing/1727783047266-second-post/</link>
+      <link>http://localhost:1313/blog/writing/1727783047266-second-post/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/writing/1727783047266-second-post/</guid>
+      <guid>http://localhost:1313/blog/writing/1727783047266-second-post/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/blog/writing/1727783047266-second-post/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/writing/1727783047266-second-post/featured.png" />
     </item>
     
     <item>
       <title>about me</title>
-      <link>https://curious651.github.io/blog/about/</link>
+      <link>http://localhost:1313/blog/about/</link>
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/about/</guid>
+      <guid>http://localhost:1313/blog/about/</guid>
       <description></description>
       
     </item>

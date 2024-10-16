@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on better contexts</title>
-    <link>https://curious651.github.io/blog/reading/</link>
+    <link>http://localhost:1313/blog/reading/</link>
     <description>Recent content in Books on better contexts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 chris</copyright>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://curious651.github.io/blog/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first-book</title>
-      <link>https://curious651.github.io/blog/reading/one-book/</link>
+      <link>http://localhost:1313/blog/reading/one-book/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/reading/one-book/</guid>
+      <guid>http://localhost:1313/blog/reading/one-book/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/blog/reading/one-book/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/reading/one-book/featured.png" />
     </item>
     
     <item>
       <title>second-book</title>
-      <link>https://curious651.github.io/blog/reading/second-book/</link>
+      <link>http://localhost:1313/blog/reading/second-book/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://curious651.github.io/blog/reading/second-book/</guid>
+      <guid>http://localhost:1313/blog/reading/second-book/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://curious651.github.io/blog/reading/second-book/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/reading/second-book/featured.png" />
     </item>
     
   </channel>
