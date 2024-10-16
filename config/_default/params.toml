@@ -1,4 +1,4 @@
-colorScheme = "autumn"
+colorScheme = "avocado"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
@@ -51,7 +51,7 @@ showPagination = true
 invertPagination = false
 showReadingTime = true
 showTableOfContents = true
-showTaxonomies = false
+showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = ""
